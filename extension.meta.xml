@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="grapejs_field" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>GrapeJS Field</name>
+	<description>Field to support a Grape JS Editor</description>
+	<types>
+		<type>Field Types</type>
+	</types>
+	<authors>
+		<author>
+			<name github="mazedigital" >Maze Digital</name>
+			<website>https://maze.digital</website>
+		</author>
+		<author>
+			<name >Johan Corsaletti</name>
+		</author>
+	</authors>
+	<releases>
+		<release version="0.0.1" date="2018-08-13">
+			- First Release
+		</release>
+	</releases>
+</extension>
